@@ -1,4 +1,5 @@
 style.css
+body{
   background: #EBEBEB;
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
@@ -39,5 +40,4 @@ a:hover{
 table{
   font-weight: 300;
   font-size: 15px;
-  line-height: 1.6em;
-}
+  line-height: 1.6em,
